@@ -1,0 +1,3 @@
+Two examples of data that cannot be stored in int variables are :
+1) String like name etc
+2) Decimal : It cannot be stored directly into interger variable .I can be stored using typecasting only which only stored data before decimal point.
